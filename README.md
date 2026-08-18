@@ -34,3 +34,4 @@ A concise recommended stack for modern product development.
 - **[TanStack](https://tanstack.com/)** — Composable libraries for polished data experiences.
 - **[Prettier](https://prettier.io/)** — Elegant consistency across the entire repo.
 - **[Electron](https://www.electronjs.org/)** — Desktop apps built with web power and native feel.
+- **[Bun](https://bun.sh/)** — Fast JavaScript runtime, package manager, and bundler for end-to-end workflows.
