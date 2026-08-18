@@ -24,6 +24,7 @@ A concise recommended stack for modern product development.
 - **[p-queue](https://github.com/sindresorhus/p-queue)** — Gentle control over concurrency, retries, and flow.
 - **[execa](https://github.com/sindresorhus/execa)** — Clean process control for scripts and automation.
 - **[nanoid](https://github.com/ai/nanoid)** — Fast unique IDs with a tiny footprint.
+- **[SQLite](https://sqlite.org/)** — Lightweight, reliable storage for local-first and embedded data needs.
 - **[TypeScript](https://www.typescriptlang.org/)** — Shared type discipline across your backend services.
 - **[Prettier](https://prettier.io/)** — Uniform style for maintainable server code.
 - **[Babel](https://babeljs.io/)** — Smooth transpilation for stable runtime support.
