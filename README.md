@@ -4,33 +4,33 @@ A concise recommended stack for modern product development.
 
 ## Frontend
 
-- **Vue** — A lean and delightful framework for building elegant interfaces.
-- **Vite** — Fast, effortless bundling and dev startup for smooth creation.
-- **Tailwind CSS** — Utility-first styling for clean, consistent design systems.
-- **Zustand** — Simple, focused state management with minimal ceremony.
-- **date-fns** — Friendly date handling without extra complexity.
-- **es-toolkit** — Practical helpers for clearer, cleaner JavaScript and TypeScript.
-- **Valibot** — Lightweight validation with a calm, straightforward API.
-- **TanStack** — Thoughtful data and UI tooling for polished frontend experiences.
-- **Reka UI** — Flexible building blocks for modern Vue user interfaces.
-- **Prettier** — Opinionated formatting that keeps code crisp and readable.
-- **TypeScript** — Predictable typing for safer, more maintainable frontends.
-- **Babel** — Smoothly compile modern syntax for broader compatibility.
+- **Vue** — Build clean, intuitive interfaces with confidence.
+- **Vite** — Lightning-fast starts and instant feedback while coding.
+- **Tailwind CSS** — Precision utilities for a refined, consistent UI.
+- **Zustand** — Simple state handling for smooth user experiences.
+- **date-fns** — Elegant, functional date utilities without bloat.
+- **es-toolkit** — Practical essentials for cleaner JavaScript and TypeScript.
+- **Valibot** — Lightweight validation with clear and predictable behavior.
+- **TanStack** — Data workflows designed for responsive front-end apps.
+- **Reka UI** — Thoughtful Vue components for polished interaction.
+- **Prettier** — Beautiful, consistent formatting every time.
+- **TypeScript** — Confidently scale code with precise types.
+- **Babel** — Modern JavaScript, ready for broader compatibility.
 
 ## Backend
 
-- **Hono** — A minimal, high-performance framework for clean API design.
-- **croner** — Straightforward scheduling for reliable timed jobs.
-- **p-queue** — Elegant control of async work with concurrency and retries.
-- **execa** — Streamlined process execution for scripts and automation.
-- **nanoid** — Tiny, fast unique IDs without unnecessary overhead.
-- **TypeScript** — Strong typing that scales backend reliability.
-- **Prettier** — Consistent formatting so backend code stays readable.
-- **Babel** — Reliable transpilation for JavaScript runtime compatibility.
+- **Hono** — Minimal, fast APIs with a developer-friendly surface.
+- **croner** — Reliable scheduling, designed to stay out of your way.
+- **p-queue** — Gentle control over concurrency, retries, and flow.
+- **execa** — Clean process control for scripts and automation.
+- **nanoid** — Fast unique IDs with a tiny footprint.
+- **TypeScript** — Shared type discipline across your backend services.
+- **Prettier** — Uniform style for maintainable server code.
+- **Babel** — Smooth transpilation for stable runtime support.
 
 ## Shared / Cross-platform
 
-- **TypeScript** — One shared language discipline across frontend and backend.
-- **TanStack** — Composable libraries that fit both web and application workflows.
-- **Prettier** — Uniform style across the whole codebase.
-- **Electron** — Build native desktop experiences with web technologies.
+- **TypeScript** — One language for frontend and backend reliability.
+- **TanStack** — Composable libraries for polished data experiences.
+- **Prettier** — Elegant consistency across the entire repo.
+- **Electron** — Desktop apps built with web power and native feel.
