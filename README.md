@@ -1,4 +1,4 @@
-# Tech Stack Recommendations
+# Tech Stack
 
 A concise recommended stack for modern product development.
 
